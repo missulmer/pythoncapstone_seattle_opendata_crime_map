@@ -1,0 +1,9 @@
+Handy python things.
+
+seeing pretty printed json
+
+python -m json.tool spd_data_pg_0.json | lesscont_data.__class__
+#returns type
+cont_data[0]
+#Returns the contents of the data
+
